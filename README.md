@@ -7,7 +7,7 @@ This repository is based on [openai/guided-diffusion](https://github.com/openai/
 
 ## Overall Framework
 
-![Overall Framework](images/overall framework.png)
+![image](https://github.com/6tonystark6/ScoreAdv/blob/main/images/overall%20framework.png)
 
 ## Code Organization
 ```
