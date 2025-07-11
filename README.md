@@ -147,5 +147,13 @@ For image classification attack, you can download the code [here](https://pan.ba
 
 ## Citation
 ```
-coming soon
+@misc{huang2025scoreadvscorebasedtargetedgeneration,
+      title={ScoreAdv: Score-based Targeted Generation of Natural Adversarial Examples via Diffusion Models}, 
+      author={Chihan Huang and Hao Tang},
+      year={2025},
+      eprint={2507.06078},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.06078}, 
+}
 ```
